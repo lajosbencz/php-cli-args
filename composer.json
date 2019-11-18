@@ -1,5 +1,5 @@
 {
-    "name": "lajosbencz/php-cli-args",
+    "name": "lajosbencz/cli-args",
     "description": "PHP console arguments parser",
     "type": "library",
     "license": "GPL-3.0-or-later",
