@@ -1,0 +1,19 @@
+{
+    "name": "lajosbencz/php-cli-args",
+    "description": "PHP console arguments parser",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Lajos Bencz",
+            "email": "lazos@lazos.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LajosBencz\\": "src/LajosBencz"
+        }
+    }
+}
